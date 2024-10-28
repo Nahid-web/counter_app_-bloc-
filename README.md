@@ -20,8 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/user-attachments/assets/fb349742-16af-4e1c-8aba-f13f1be3cccd)
 
 ![image](https://github.com/user-attachments/assets/24335662-104a-4aa6-aa21-ecbb0e7ed47e)
-sealed class CounterEvent {}
+![image](https://github.com/user-attachments/assets/4b0fb72e-3db6-40a5-93bf-48afc07a90a1)
 
-class CounterIncremented extends CounterEvent {}
-
-class CounterDecremented extends CounterEvent {}
